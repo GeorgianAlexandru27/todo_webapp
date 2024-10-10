@@ -1,1 +1,3 @@
-spala vase
+clean
+run
+eat
